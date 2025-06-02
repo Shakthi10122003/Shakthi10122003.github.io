@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: url("Bg6.jpg") no-repeat center center/cover;
+  background: url("bg6.jpg") no-repeat center center/cover;
   min-height: 100vh;
   color: #000000;
   overflow-x: hidden;
